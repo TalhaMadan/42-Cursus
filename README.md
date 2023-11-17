@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-![42](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cI0K6OHZHzvLp8pOMucLXn8BW7NO0PVt9Q&usqp=CAU)
+<img src="[http://url/to/img.png](https://github-production-user-asset-6210df.s3.amazonaws.com/97880185/278762590-3ee236ab-ed58-4a37-a46b-b840f7c6838d.jpg)" alt="alt text" width="320" height="180">
 
 -------------------------------------------------------------------------------------------------------------------------------
 
