@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-![42]([https://github.com/TalhaMadan/42-Cursus/assets/118732379/41c03219-01ee-4a16-aec8-d25cd4dd8c73](https://github.com/farukdll/42-Projects/assets/97880185/3ee236ab-ed58-4a37-a46b-b840f7c6838d))
+![42](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cI0K6OHZHzvLp8pOMucLXn8BW7NO0PVt9Q&usqp=CAU)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
